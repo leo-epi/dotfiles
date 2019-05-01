@@ -1,5 +1,5 @@
 # dotfiles
-My customization for tmux.
+My customization for tmux (Cheatsheet is coming at some point).
 
 ![alt text][logo]
 
