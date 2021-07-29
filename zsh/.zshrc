@@ -75,7 +75,6 @@ ZSH_TMUX_AUTOCONNECT=false
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
     git
-    tmux
 )
 
 source $ZSH/oh-my-zsh.sh
@@ -106,4 +105,4 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias t="tmux"
+alias t="tmux new-session 'newsboat'"
